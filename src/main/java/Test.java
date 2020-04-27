@@ -35,7 +35,7 @@ public class Test {
 
         }
         if(100 == num ) {
-            System.out.println("customer has been 1000");
+            System.out.println("customer has been 100");
         }
         for(int i = 12; i < 20; i ++) {
             System.out.println("[" + i + "," + (i+1)+"):" +map.get(i));
